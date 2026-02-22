@@ -1,5 +1,24 @@
 # 💫 About Me:
-Software Developer (Full Stack) with 5 years of total IT experience. Strong expertise in developing enterprise-level applications using C#, ADO.NET, ASP.NET MVC/Core, Web API, SQL Server, Angular, JavaScript, and modern tools. <br>Expertise in building secure, high-performance RESTful services, implementing JWT-based authentication, role-based authorization, and ensuring application reliability and scalability. Strong background in end-to-end software engineering including system design, backend development, UI integration, database optimization, and deployment on IIS. Proven ability to drive technical solutions, improve application performance, enforce clean architecture through SOLID principles and design patterns, and maintain high code quality through reviews and best practices. <br>Experienced in Agile environments, collaborating with stakeholders, mentoring junior developers, and providing production support for mission-critical business systems.
+Hi, I'm Amol 👋  
+Senior Software Developer | Full Stack .NET Developer | 5+ Years Experience  
+
+💼 I specialize in building scalable, secure, and high-performance enterprise applications using ASP.NET MVC, ASP.NET Core, and Web API.
+
+🚀 I have hands-on experience in:
+- Designing RESTful APIs and backend architectures
+- Developing dynamic and responsive UI using Angular, JavaScript, jQuery & Bootstrap
+- Implementing authentication & authorization using JWT and Role-Based Access Control
+- Writing optimized SQL queries, Stored Procedures, and database design in SQL Server
+- Following SOLID principles and clean architecture practices
+
+🛠️ I enjoy solving real-world business problems and building maintainable, production-ready systems.
+
+📈 Currently focusing on improving system design, performance optimization, and advanced .NET concepts.
+
+---
+
+### 🎯 Career Objective
+To contribute to a growth-oriented organization where I can leverage my full-stack expertise, learn advanced technologies, and build impactful software solutions.
 
 
 # 💻 Tech Stack:
