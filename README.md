@@ -3,7 +3,6 @@ Software Developer (Full Stack) with 5 years of total IT experience. Strong expe
 
 
 # 💻 Tech Stack:
-## 💻 Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -12,7 +11,6 @@ Software Developer (Full Stack) with 5 years of total IT experience. Strong expe
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## 🌐 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -20,15 +18,12 @@ Software Developer (Full Stack) with 5 years of total IT experience. Strong expe
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 🗄️ Database
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-CC2927?style=for-the-badge&logo=database&logoColor=white)
 
-## 🔐 Security
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Role Based Auth](https://img.shields.io/badge/Role%20Based%20Auth-4CAF50?style=for-the-badge)
 
-## 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
@@ -36,7 +31,6 @@ Software Developer (Full Stack) with 5 years of total IT experience. Strong expe
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-## 🏗️ Architecture & Principles
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 ![MVC Pattern](https://img.shields.io/badge/MVC%20Pattern-6DB33F?style=for-the-badge)
 ![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-FF9800?style=for-the-badge)
